@@ -1,2 +1,4 @@
 # DataScienceTools_Coursera
-Create to share a Jupyter Notebook
+Created to share a Jupyter Notebook
+
+Author: Zack Capitao
